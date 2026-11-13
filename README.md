@@ -10,7 +10,7 @@ Este espaço foi projetado para demonstrar minha capacidade analítica de transi
 
 As análises técnicas desenvolvidas neste ecossistema refletem meu **desenvolvimento profissional contínuo**, unindo a base acadêmica de ensino superior às principais certificações práticas exigidas pelo mercado de tecnologia:
 
-* **Graduação:** Tecnólogo em Segurança da Informação — **FATEC** (Faculdade de Tecnologia do Estado de São Paulo)
+* **Graduação:** Tecnólogo em Segurança da Informação — **FATEC ARARAQUARA** (Faculdade de Tecnologia do Estado de São Paulo)
 * **Data Privacy Brasil:** Curso EAD Essencial em LGPD
 * **Udemy:** Frameworks de Segurança da Informação (ISO/IEC 27001)
 * **Google Career Certificates:** Google Cybersecurity Certificate
